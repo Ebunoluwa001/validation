@@ -1,0 +1,62 @@
+body {
+    background-image: url("images/mount-2731388_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; /* Optional: scales the image to cover the entire viewport */
+    height: 100vh; /* Optional: sets the height to the full viewport height */
+    margin: 0; /* Optional: removes default margin */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.categories{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 300px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.3);
+    object-fit: cover;
+    background-image: url('images/2106.i305.015.F.m005.c7.realistic\ mountains.jpg')
+}
+#user{
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+ border: 0px;
+}
+#emailInput{
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;  
+    margin-top: 10px;
+    border: 0px;
+}
+#numb{
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    border: 0px;
+}
+#Password{
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    border: 0px;
+}
+#confirm{
+    border: 0px;
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#submit{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0px;
+    margin-top: 10px;
+    font-size: medium;
+    color: white;
+
+}
